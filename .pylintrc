@@ -11,5 +11,5 @@ good-names=i,
     do_DELETE
 
 [MESSAGES CONTROL]
-disable=broad-except,redefined-builtin,missing-module-docstring
+disable=broad-except,redefined-builtin,missing-module-docstring, line-too-long, missing-function-docstring, trailing-whitespace
 
